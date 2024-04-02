@@ -1,16 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=VENOM&height=200&text=WELCOME!-nl-JAEUK'S%20Git%Hub.&animation=fadeIn&color=0:EEFF00,100:a82da8&fontColor=FFFF)
 
-<!--
-**jaeuk-oh/jaeuk-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    안녕하세요. </br>
+    데이터로 문제를 해결하는 열정적인 데이터 분석가 </br> 오재욱입니다.</br></br></br>
+</div>
 
-Here are some ideas to get you started:
+## - Tech Stack
+<div> 
+    
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Tableau-FA6831?style=for-the-badge&logo=Tableau&logoColor=white) <br>
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</br></br></br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## - Project
+
+## - About Me 
+<div>
+    
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/jaeuk96/)
+![](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/LLM-f699bca9086d4ebdb2e965765ad70592?pvs=4)
+</br></br></br>
+</div>  
+
+## - Contact
+📫 dds03011@gmail.com
+
