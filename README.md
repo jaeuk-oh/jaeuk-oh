@@ -26,7 +26,7 @@
 <div>
     
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/jaeuk96/)
-![](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/LLM-f699bca9086d4ebdb2e965765ad70592?pvs=4)
+![](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=(https://www.notion.so/DA-Project-5d603f8354c04400990b34baa9eb65ce?pvs=4))
 </br></br></br>
 </div>  
 
