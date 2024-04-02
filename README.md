@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=VENOM&height=200&text=WELCOME!-nl-JAEUK'S%20Git%Hub.&animation=fadeIn&color=0:EEFF00,100:a82da8&fontColor=FFFF)
 
-<div>
-    안녕하세요. </br>
-    데이터로 문제를 해결하는 열정적인 데이터 분석가 </br> 오재욱입니다.</br></br></br>
+<div align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
+    안녕하세요!<br>
+    데이터로 문제를 해결하는 열정적인 데이터 분석가<br>
+    오재욱 입니다.<br><br><br>
 </div>
+
 
 ## - Tech Stack
 <div> 
