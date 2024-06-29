@@ -2,7 +2,7 @@
 
 <div align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
     안녕하세요!<br>
-    데이터로 문제를 해결하는 데이터 분석가<br>
+    AI 엔지니어<br>
     오재욱 입니다.<br><br><br>
 </div>
 
