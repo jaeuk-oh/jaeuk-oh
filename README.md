@@ -2,7 +2,6 @@
 
 <div align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
     안녕하세요!<br>
-    진짜 문제가 무엇인지 고민하는 AI 엔지니어<br>
     오재욱 입니다.<br><br><br>
 </div>
 
