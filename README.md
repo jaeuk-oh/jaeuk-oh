@@ -15,14 +15,6 @@
 
 ## - About Me 
 <div>
-    
-<a href = 'https://www.linkedin.com/in/jaeuk96/'>
-    <img src="https://img.shields.io/badge/-LinkedIn-3B66BC?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/jaeuk96/">
-</a> 
-    
-<a href = 'https://www.notion.so/DA-Project-5d603f8354c04400990b34baa9eb65ce?pvs=4/'>
-    <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=(https://www.notion.so/DA-Project-5d603f8354c04400990b34baa9eb65ce?pvs=4/">
-</a> 
         
 </br></br></br>
 </div>  
