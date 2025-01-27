@@ -8,18 +8,6 @@
 </div>
 
 
-## - Tech Stack
-<div> 
-    
-</div>
-
-## - Project
-
-## - About Me 
-<div>
-        
-</br></br></br>
-</div>  
 
 ## - Contact
 📫 dds03011@gmail.com
