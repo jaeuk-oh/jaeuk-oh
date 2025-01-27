@@ -2,8 +2,8 @@
 
 <div align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
     안녕하세요!<br>
-    핵심을 파악하는 에듀테크
-    What on solve. 
+    핵심을 파악하는 에듀테크<br>
+    What on solve.<br>
     오재욱 입니다.<br><br><br>
 </div>
 
