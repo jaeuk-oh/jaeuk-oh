@@ -1,2 +1,2 @@
-I’m an aspiring AI developer growing through projects in Data Analysis (DA), Natural Language Processing (NLP), and Large Language Models (LLMs).
-I aim to create an intelligent system that truly understands — extending from language to physical AI.
+Aspiring AI developer focused on DA, NLP, and LLMs.
+Exploring the path toward embodied (physical) AI to build systems that understand and interact beyond language.
